@@ -1,0 +1,15 @@
+[submodule "assignment-1"]
+	path = assignment-1
+	url = https://github.com/MECHENG270-2021/assignment-1-c0de-w1z4rd
+[submodule "assignment-2"]
+	path = assignment-2
+	url = https://github.com/MECHENG270-2021/assignment-2-c0de-w1z4rd
+[submodule "assignment-3"]
+	path = assignment-3
+	url = https://github.com/MECHENG270-2021/assignment-3-c0de-w1z4rd
+[submodule "assignment-4"]
+	path = assignment-4
+	url = https://github.com/MECHENG270-2021/assignment-4-c0de-w1z4rd
+[submodule "hello-github"]
+	path = hello-github
+	url = https://github.com/MECHENG270-2021/hello-github-c0de-w1z4rd
